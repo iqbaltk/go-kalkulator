@@ -1,3 +1,3 @@
-module github.com/iqbaltk/go-kalkulator/v2
+module github.com/iqbaltk/go-kalkulator
 
 go 1.18
